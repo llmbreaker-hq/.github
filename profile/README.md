@@ -11,8 +11,8 @@ Automatically detect jailbreaks, prompt injections, PII leaks, and 8+ vulnerabil
 [![Node.js Version](https://img.shields.io/badge/node-%3E%3D18.0.0-brightgreen)](https://nodejs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 
-[API Reference](./API_REFERENCE.md) •
-[Contributing](./CONTRIBUTING.md) •
+[API Reference](https://github.com/llmbreaker-hq/llmbreaker/blob/main/API_REFERENCE.md) •
+[Contributing](https://github.com/llmbreaker-hq/llmbreaker/blob/main/CONTRIBUTING.md) •
 [Report Issue](https://github.com/llmbreaker-hq/llmbreaker/issues)
 
 </div>
