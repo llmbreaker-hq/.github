@@ -13,7 +13,7 @@ Automatically detect jailbreaks, prompt injections, PII leaks, and 8+ vulnerabil
 
 [API Reference](./API_REFERENCE.md) •
 [Contributing](./CONTRIBUTING.md) •
-[Report Issue](https://github.com/yourusername/llmbreaker/issues)
+[Report Issue](https://github.com/llmbreaker-hq/llmbreaker/issues)
 
 </div>
 
